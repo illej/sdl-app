@@ -1,2 +1,2 @@
 # sdl-app
-Basic real-time application using SDL2
+Simple real-time application template using SDL2
